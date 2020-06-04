@@ -1,3 +1,3 @@
 class Cat
-  
-enattd
+  attr_accessor
+end
